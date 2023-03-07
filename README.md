@@ -1,6 +1,6 @@
-👩‍💻 As a software developer and founder of Twig the Code, a non-profit organization that supports women in software development, I'm dedicated to creating a more inclusive and diverse tech industry.
+## Hi There 👋
 
-🔥 My passion for technology, sports, and parenting fuels my hard work and dedication to delivering high-quality software solutions. Prior to my software development career, I worked in digital marketing for both startups and large enterprises, where I discovered my interest in the technical side of marketing.
+👩‍💻 As a software developer and founder of Twig the Code, a non-profit organization that supports women in software development, I'm dedicated to creating a more inclusive and diverse tech industry.
 
 ⭐️ My work with Twig the Code has revealed the barriers many women face when trying to enter the tech industry. To help overcome these barriers, we provide coding training, development camps, networking events, and software development projects for aspiring female developers.
 
